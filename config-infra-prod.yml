@@ -1,7 +1,7 @@
 variables:
 
   # Global
-  namespace: mlopsv2
+  namespace: mlopsv2tg
   postfix: 819
   location: australiaeast
   environment: prod
