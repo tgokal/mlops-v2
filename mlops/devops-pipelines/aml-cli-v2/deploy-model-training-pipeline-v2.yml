@@ -24,7 +24,7 @@ resources:
   repositories:
     - repository: mlops-templates  # Template Repo
       name: tgokal/mlops-templates # need to change org name from "Azure" to your own org
-      endpoint: mlops-v2-templates-service-connection  # need to hardcode as repositories doesn't accept variables
+      endpoint: mlops-v2-service-connection  # need to hardcode as repositories doesn't accept variables
       type: github
 
 stages:
